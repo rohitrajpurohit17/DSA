@@ -1,0 +1,15 @@
+Recursion :- When a function call itself util it met a specific Condition.
+
+Three Essential Parts:
+
+Base Case - Condition to stop recursion
+
+Recursive Call - Function calling itself
+
+Progress - Moving toward the base case
+
+If conditon is NOT Specified  it will run Infinitly which will lead to Ran out of memory[Stack Overflow]
+
+
+What is a Recursion Tree?
+--> Visual representation showing how recursive function calls branch out
