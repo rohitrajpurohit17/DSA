@@ -14,7 +14,7 @@ class RecursionDemo{
     }   
 }
 
-public class Day01 {
+public class O1RecursionNumPrint {
 
     public static void main(String[] args) {
         RecursionDemo r = new  RecursionDemo();
