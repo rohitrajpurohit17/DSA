@@ -20,5 +20,3 @@ Main Purpose
 Breaking big problems into smaller ones - Like breaking a chocolate bar into pieces,
 recursion takes a complex problem and keeps dividing it until it becomes simple to solve
 
-https://www.youtube.com/@TeeFloresvlogs
-https://www.youtube.com/watch?v=hzJ7qSPApHY
