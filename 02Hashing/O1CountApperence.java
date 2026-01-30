@@ -26,5 +26,6 @@ public class O1CountApperence {
             int num =  sc.nextInt();
             System.out.println(hash[num]);
         }
+        
     }
 }

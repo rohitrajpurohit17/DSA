@@ -21,5 +21,6 @@ public class O3HashMapCount {
             int num = sc.nextInt();
             System.out.println(mp.getOrDefault(num, 0));
         }
+        
     }
 }
